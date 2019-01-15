@@ -1,4 +1,4 @@
-package ch.tbz.chat;
+package ch.tbz.DateServer;
 
 import java.io.BufferedReader;
 import java.io.IOException;
